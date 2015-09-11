@@ -7,6 +7,3 @@
     - Changed path to C:\Program Files (x86)\Git\bin\ssh.exe   
 
 ---
-
-- 邮箱 ：charon.chui@gmail.com  
-- Good Luck! 
